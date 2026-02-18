@@ -6,8 +6,8 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on global suic
 To identify significant trends in suicide rates across different demographics and time periods, providing data-driven insights into a critical global health issue.
 
 ## 🛠️ Tech Stack & Libraries
-* [cite_start]**Language:** Python [cite: 23]
-* [cite_start]**Libraries:** Pandas (Data Manipulation), NumPy (Numerical Analysis), Matplotlib & Seaborn (Data Visualization), Scikit-learn (Statistical Modeling) [cite: 24, 25]
+* **Language:** Python [cite: 23]
+* **Libraries:** Pandas (Data Manipulation), NumPy (Numerical Analysis), Matplotlib & Seaborn (Data Visualization), Scikit-learn (Statistical Modeling) [cite: 24, 25]
 
 ## 🔍 Key Insights
 * **Demographic Trends:** Analysis of which age groups and genders are most at risk globally.
@@ -15,7 +15,7 @@ To identify significant trends in suicide rates across different demographics an
 * **Temporal Analysis:** Tracking how rates have evolved over the last few decades.
 
 ## 📂 Dataset
-[cite_start]The analysis is based on the [World Health Organization (WHO)] dataset (or specify Kaggle if applicable [cite: 5]).
+The analysis is based on the [World Health Organization (WHO)] dataset (or specify Kaggle if applicable [cite: 5]).
 
 ## 🚀 How to Run
 1. Clone the repo: `git clone https://github.com/Deepu8405/suicide-rate-trend-analysis`
